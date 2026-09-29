@@ -3,7 +3,7 @@ title: Collective Game — Design Notes
 tags: index
 ---
 
-Working title: **Collective Game** (sci-fi MMO, hourly-tick, collective-based territory and politics).
+Working title: **Collective Game** (low fantasy MMO, hourly-tick, collective-based territory and politics).
 
 ## Pages
 
